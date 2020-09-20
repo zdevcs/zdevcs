@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://raspi.zdev.me/about/index.html</loc>
+    
+    <lastmod>2020-09-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://raspi.zdev.me/tags/index.html</loc>
+    
+    <lastmod>2020-09-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://raspi.zdev.me/categories/index.html</loc>
+    
+    <lastmod>2020-09-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://raspi.zdev.me/hello-world.html</loc>
+    
+    <lastmod>2020-09-18</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>https://raspi.zdev.me/</loc>
+    <lastmod>2020-09-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+
+  
+</urlset>
