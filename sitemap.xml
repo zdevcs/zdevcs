@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://zdevcs.github.io/zdevcs/404.html</loc>
+    <loc>https://blog.zdev.me/404.html</loc>
     
     <lastmod>2020-09-20</lastmod>
     
   </url>
   
   <url>
-    <loc>https://zdevcs.github.io/zdevcs/about/index.html</loc>
+    <loc>https://blog.zdev.me/about/index.html</loc>
     
     <lastmod>2020-09-20</lastmod>
     
   </url>
   
   <url>
-    <loc>https://zdevcs.github.io/zdevcs/tags/index.html</loc>
+    <loc>https://blog.zdev.me/tags/index.html</loc>
     
     <lastmod>2020-09-20</lastmod>
     
   </url>
   
   <url>
-    <loc>https://zdevcs.github.io/zdevcs/categories/index.html</loc>
+    <loc>https://blog.zdev.me/categories/index.html</loc>
     
     <lastmod>2020-09-20</lastmod>
     
   </url>
   
   <url>
-    <loc>https://zdevcs.github.io/zdevcs/hello-world.html</loc>
+    <loc>https://blog.zdev.me/hello-world.html</loc>
     
     <lastmod>2020-09-18</lastmod>
     
@@ -38,7 +38,7 @@
   
 
   <url>
-    <loc>https://zdevcs.github.io/zdevcs</loc>
+    <loc>https://blog.zdev.me/</loc>
     <lastmod>2020-09-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
